@@ -1,0 +1,9 @@
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\bin\Debug\netcoreapp3.1\KronusMqttLib.deps.json
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\bin\Debug\netcoreapp3.1\KronusMqttLib.dll
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\bin\Debug\netcoreapp3.1\KronusMqttLib.pdb
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.csprojAssemblyReference.cache
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.AssemblyInfoInputs.cache
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.AssemblyInfo.cs
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.csproj.CoreCompileInputs.cache
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.dll
+C:\Users\mattp\Desktop\PerleyML\KronusMqttLib\obj\Debug\netcoreapp3.1\KronusMqttLib.pdb

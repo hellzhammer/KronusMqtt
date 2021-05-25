@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eK/Gr0UQ0FNXFeUrc2UC9UFkLUnZZZTHd7gQ5FEIW/x6b6m8HMKMXe0fY4EyLiklquUM0Lw4pA8kznGxTr3bpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mattp\\Desktop\\PerleyML\\KronusMqttLib\\KronusMqttLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattp\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
